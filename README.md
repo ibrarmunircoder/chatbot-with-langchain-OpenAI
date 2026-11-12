@@ -17,7 +17,6 @@ Throughout this course, I explored the following concepts and technologies:
 - **Output Parsers:** Structuring and processing LLM responses into usable formats.
 - **Retrieval-Augmented Generation (RAG):** Connecting LLMs with external knowledge bases to answer questions about custom and previously unseen data.
 - **LangChain Expression Language (LCEL):** Building composable chains and workflows for LLM-powered applications.
-- **Agent Tooling:** Exploring how AI agents use tools to perform tasks and solve more complex problems.
 - **Environment Configuration:** Managing API keys and environment variables securely.
 
 ## Technologies & Tools
@@ -33,7 +32,6 @@ Throughout this course, I explored the following concepts and technologies:
 - Few-Shot Prompting
 - Conversation Memory
 - Output Parsers
-- AI Agent Tooling
 
 ## Key Learning Outcomes
 
