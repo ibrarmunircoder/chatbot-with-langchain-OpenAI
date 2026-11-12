@@ -42,7 +42,6 @@ By completing this course, I gained an understanding of how to:
 - Build conversational chatbots with memory and contextual awareness.
 - Retrieve relevant information from external knowledge sources using RAG.
 - Create reusable and composable LLM workflows using LCEL.
-- Understand how AI agents interact with external tools to accomplish tasks.
 
 
 ## Purpose
