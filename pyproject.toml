@@ -1,0 +1,23 @@
+[project]
+name = "chatbot-with-langchain-openai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "boto3>=1.44.1",
+    "chromadb>=1.5.9",
+    "docx2txt>=0.9",
+    "grandalf>=0.8",
+    "ipykernel>=7.4.0",
+    "langchain>=1.4.9",
+    "langchain-aws>=1.9.3",
+    "langchain-classic>=1.0.8",
+    "langchain-community>=0.4.2",
+    "langchain-openai>=1.7.4",
+    "numpy>=2.5.4",
+    "openai>=3.48.0",
+    "pypdf>=7.0.1",
+    "python-dotenv>=1.2.4",
+    "youtube-transcript-api>=1.2.5",
+]
